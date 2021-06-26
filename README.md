@@ -1,7 +1,7 @@
-### I am Victor Koji 👋
+# I am Victor Koji 👋
 
 
-### Programming language of my month 
+## Programming language of my month 
 
 <img src="https://github.com/victorkoji/victorkoji/blob/main/codeStat.svg" alt="My Coding Activity"/>
 
