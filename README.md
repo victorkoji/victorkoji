@@ -2,7 +2,6 @@
 
 
 ## Programming language of my month 
-
 <img src="https://github.com/victorkoji/victorkoji/blob/main/codeStat.svg" alt="My Coding Activity"/>
 
 <!--
