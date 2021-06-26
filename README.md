@@ -1,4 +1,9 @@
-### Hi there 👋
+### I am Victor Koji 👋
+
+
+### Programming language of my month 
+
+<figure><embed src="https://wakatime.com/share/@08c90233-d765-4139-acee-7e4bf8b4320d/940d22db-86c9-463e-bf18-c486d2332c79.svg"></embed></figure>
 
 <!--
 **victorkoji/victorkoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
