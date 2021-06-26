@@ -3,7 +3,7 @@
 
 ### Programming language of my month 
 
-<img src="https://github.com/victorkoji/victorkoji/blob/main/images/codeStat.svg" alt="Alternative Text"/>
+<img src="https://github.com/victorkoji/victorkoji/blob/main/codeStat.svg" alt="My Coding Activity"/>
 
 <!--
 **victorkoji/victorkoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
